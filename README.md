@@ -22,7 +22,7 @@ The engine has been verified against the complete Solomon and Homberger benchmar
 | :--- | :--- | :--- | :--- |
 | **Solomon-100** | Small (100 nodes) | 46.4% | ~2.78 s |
 | **Solomon-200** | Mid (200 nodes) | 51.7% | ~7.57 s |
-| **Homberger-400** | Large (400 nodes) | Verified | ~20.0 s |
+| **Homberger-400** | Large (400 nodes) | 35.0% | ~20.0 s |
 | **Homberger-600** | Large (600 nodes) | 30.0% | ~29.20 s |
 | **Homberger-800** | Massive (800 nodes) | 35.0% | ~31.15 s |
 | **Homberger-1000** | Massive (1,000 nodes) | 21.6% | ~38.22 s |
