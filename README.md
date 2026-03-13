@@ -55,6 +55,6 @@ The V111 "Axiomatic Restoration" replaces exhaustive brute-force search with:
 Available for professional collaboration, high-precision routing optimization, and logistics modeling consultancy.
 
 **Service Platforms:**
-- **Upwork:** [https://www.upwork.com/freelancers/~0173b4a58a1a327fd6?mp_source=share]
-- **Fastwork:** [https://fastwork.co/user/gsl_axiomatic_engine/ai-consultant-14686934?source=app_seller-center_my-service_share-link]
+- **Upwork:** [click](https://www.upwork.com/freelancers/~0173b4a58a1a327fd6?mp_source=share)
+- **Fastwork:** [click](https://fastwork.co/user/gsl_axiomatic_engine/ai-consultant-14686934?source=app_seller-center_my-service_share-link)
 
